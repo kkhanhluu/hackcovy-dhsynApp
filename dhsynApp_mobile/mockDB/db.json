@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id":1,
+      "creatorName": "Bác sĩ Long Đỗ Thành",
+      "title": "Thông báo quan trọng",
+      "createdDate": "24/04/2020",
+      "content": "Nhóm Du học sinh yêu nước dành chiến thắng",
+      "mediaURL": "https://reactjs.org/logo-og.png"
+    },
+    {
+      "id":2,
+      "creatorName": "This is creatorName",
+      "title": "This is title",
+      "createdDate": "This is createdDate",
+      "content": "This is content",
+      "mediaURL": "https://reactjs.org/logo-og.png"
+    },
+    {
+      "id":3,
+      "creatorName": "This is creatorName",
+      "title": "This is title",
+      "createdDate": "This is createdDate",
+      "content": "This is content",
+      "mediaURL": "https://reactjs.org/logo-og.png"
+    }
+  ],
+  "categories": [
+    {"id": 1, "name": "Dung cu 1"},
+    {"id": 2, "name": "Dung cu 2"},
+    {"id": 3, "name": "Dung cu 3"},
+    {"id": 4, "name": "Dung cu 6"}
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "san pham 1",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "san pham 2",
+      "categoryId": 1
+
+    },
+    {
+      "id": 3,
+      "name": "san pham 3",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "san pham 4",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "san pham 5",
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "name": "san pham 6",
+      "categoryId": 2
+    }, {
+      "id": 7,
+      "name": "san pham 7",
+      "categoryId": 3
+    },
+    {
+      "id": 8,
+      "name": "san pham 8",
+      "categoryId": 3
+    },
+    {
+      "id": 9,
+      "name": "san pham 9",
+      "categoryId": 3
+    }
+  ]
+}
